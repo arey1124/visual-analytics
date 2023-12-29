@@ -181,11 +181,11 @@ python-dateutil==2.8.2
 python-json-logger==2.0.7
 python-multipart==0.0.6
 pytz==2023.3
-PyWavelets==1.2.0
 pywin32==306
 pywinpty==2.0.11
 PyYAML==6.0.1
 pyzmq==25.1.1
+PyWavelets==1.4.1
 qtconsole==5.4.4
 QtPy==2.4.0
 qudida==0.0.4
